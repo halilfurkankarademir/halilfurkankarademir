@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halilfurkankarademir&show_icons=true&locale=en&layout=compact" alt="halilfurkankarademir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halilfurkankarademir&show_icons=true&locale=en" alt="halilfurkankarademir" /></p>
+
+[![halilfurkankarademir's GitHub | Stats](https://stats.quira.sh/halilfurkankarademir/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=halilfurkankarademir)

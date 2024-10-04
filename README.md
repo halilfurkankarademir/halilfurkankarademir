@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilfurkankarademir&label=Profile%20views&color=0e75b6&style=flat" alt="halilfurkankarademir" /> </p>
 
-- 🔭 I’m currently working on **React.js,Python**
+- 🔭 I’m currently working on **React,Python**
 
 - 🌱 I’m currently learning **AI,Machine Learning,Deep Learning**
 

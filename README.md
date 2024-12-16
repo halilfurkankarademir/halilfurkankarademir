@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Halil Furkan Karademir</h1>
-<h3 align="center">A Mobile Application Developer from Turkey.</h3>
+<h3 align="center">A Developer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilfurkankarademir&label=Profile%20views&color=0e75b6&style=flat" alt="halilfurkankarademir" /> </p>
 
-- 🔭 I’m currently working on **React,Python**
+- 🔭 I’m currently working on **React,Flutter,**
 
-- 🌱 I’m currently learning **AI,Machine Learning,Deep Learning**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **hfurkankarademir@gmail.com**
 

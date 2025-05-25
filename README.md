@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilfurkankarademir&label=Profile%20views&color=0e75b6&style=flat" alt="halilfurkankarademir" /> </p>
 
-- 🔭 I’m currently working on **Sosyapp** social media app.
+- 🔭 I’m currently working on **Folder Wizard**, a folder organization app..
 
 - 👯 I’m looking to collaborate on **full stack web or mobile apps.**
 
